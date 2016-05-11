@@ -1,3 +1,4 @@
+
 ## Web Design Resources
 
 * [Getty Images | Stock Photography, Editorial Photos, Footage & Music](http://www.gettyimages.com/)

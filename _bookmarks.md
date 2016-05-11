@@ -1,4 +1,4 @@
-# Bookmarks Index
+# Web Development Bookmarks
 
 * [Applications](#applications)
   * [Cross-Platform](#cross-platform)
