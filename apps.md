@@ -1,11 +1,11 @@
 ## Applications
 
-### Cross-Platform
+### Cross-Platform [cross-platform-apps]
 * [Reflector 2](http://www.airsquirrels.com/reflector/pricing/) (commercial)
 * [AirServer](http://www.airserver.com/) (commercial)
 
-### OS X
+### OS X [os-x-apps]
 
-### Windows
+### Windows [windows-apps]
 
 ### Web Apps
