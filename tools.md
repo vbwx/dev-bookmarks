@@ -1,30 +1,38 @@
-## Web Tools
+## Tools
 
-* [Closure Compiler](http://closure-compiler.appspot.com/home)
-* [CSS Minifier](http://cssminifier.com/)
-* [CodePen](http://codepen.io/pen)
-* [SQL Fiddle](http://sqlfiddle.com/#)
-* [Web Font Generator](http://www.web-font-generator.com/)
-* [What Font is](http://www.whatfontis.com/)
-* [Free Online Font Converter](http://www.freefontconverter.com/)
-* [Font2Web](http://www.font2web.com/)
-* [Decode online](http://decode.urih.com/)
-* [Color Converter](http://www.workwithcolor.com/color-converter-01.htm)
+### Media
 * [Online Audio Converter](http://media.io/)
-* [JSHint](http://jshint.com/)
+* [Favicon Generator](http://realfavicongenerator.net/)
+* [image-to-DataURI converter](http://duri.me/)
+
+### Fonts
+* [Web Font Generator](http://www.web-font-generator.com/)
+* [Free Online Font Converter](http://www.freefontconverter.com/)
+* [What Font is](http://www.whatfontis.com/)
+
+### Colors
+* [Color Safe](http://colorsafe.co/)
+* [Color Converter](http://www.workwithcolor.com/color-converter-01.htm)
+
+### HTML
+* [HTML image map creator](http://summerstyle.github.io/summer/)
+* [HTML Entities](http://www.w3schools.com/tags/ref_entities.asp)
 * [W3C Unicorn](http://validator.w3.org/unicorn/)
-* [modern.IE](http://www.modern.ie/en-US/)
-* [Google PageRank Checker](http://www.prchecker.info/)
+
+### CSS
 * [CSS3 Generator](http://css3generator.com/)
 * [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-* [HTML ISO-8859-1](http://www.w3schools.com/tags/ref_entities.asp)
-* [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
-* [HTML image map creator](http://summerstyle.github.io/summer/)
-* [htpasswd generator](http://approsto.com/htpasswd-generator/)
+
+### Data
 * [JSONLint](http://pro.jsonlint.com/)
+* [Decode online](http://decode.urih.com/)
+
+### Server
+* [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
 * [htaccess tester](http://htaccess.madewithlove.be/)
-* [image-to-DataURI converter](http://duri.me/)
-* [Favicon Generator](http://realfavicongenerator.net/)
-* [Reflector 2](http://www.airsquirrels.com/reflector/pricing/)
-* [AirServer](http://www.airserver.com/)
-* [Color Safe](http://colorsafe.co/)
+* [htpasswd generator](http://approsto.com/htpasswd-generator/)
+
+### Miscellaneous
+* [SQL Fiddle](http://sqlfiddle.com/#)
+* [CodePen](http://codepen.io/pen)
+* [Google PageRank Checker](http://www.prchecker.info/)

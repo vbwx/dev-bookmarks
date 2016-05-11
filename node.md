@@ -12,3 +12,4 @@
 * [html2jade](https://github.com/donpark/html2jade)
 * [Electron](http://electron.atom.io/)
 * [postcss](https://github.com/postcss/postcss)
+* [Harp](http://harpjs.com/)

@@ -1,7 +1,7 @@
 ## Web Design Resources
 
 * [Getty Images | Stock Photography, Editorial Photos, Footage & Music](http://www.gettyimages.com/)
-* [Fotolia.de: Bildagentur, lizenzfreie Bilder](http://de.fotolia.com/)
+* [Fotolia](http://de.fotolia.com/)
 * [IconDock](http://icondock.com/)
 * [Google Web Fonts](http://www.google.com/webfonts)
 * [Subtle Patterns | High quality patterns for your next web project](http://subtlepatterns.com/)
@@ -10,7 +10,6 @@
 * [Typekit](https://typekit.com/)
 * [The Best of Business Card Design](http://www.cardonizer.com/)
 * [ThemeForest](http://themeforest.net/)
-* [10 kostenlose Icon Fonts](http://t3n.de/news/10-kostenlose-icon-fonts-450651/)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [placekitten](http://placekitten.com/)
 * [Placehold.it](http://placehold.it/)

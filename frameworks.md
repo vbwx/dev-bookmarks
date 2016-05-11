@@ -1,4 +1,4 @@
-## Web Frameworks
+## Frameworks
 
 * [Foundation](http://foundation.zurb.com/)
 * [Skeleton](http://www.getskeleton.com/)
