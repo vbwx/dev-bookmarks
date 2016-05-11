@@ -26,3 +26,6 @@
 * [Web Design Resources](#web-design-resources)
 * [Web Design Inspiration](#web-design-inspiration)
 * [Know-How](#know-how)
+
+## Other Collections
+* [Awesome Lists](https://github.com/sindresorhus/awesome)
