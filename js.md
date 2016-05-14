@@ -9,7 +9,6 @@
 * [JSON-js](https://github.com/douglascrockford/JSON-js)
 * [Lightbox 2](http://lokeshdhakar.com/projects/lightbox2/)
 * [Modernizr: the feature detection library for HTML5/CSS3](http://modernizr.com/)
-* [fleXcroll: Cross Browser Custom ScrollBar script by Hesido](http://www.hesido.com/web.php?page=customscrollbar)
 * [Galleria – Responsive JavaScript Image Gallery](http://galleria.io/)
 * [scottjehl/Respond · GitHub](https://github.com/scottjehl/Respond)
 * [Chart.js | HTML5 Charts for your website](http://www.chartjs.org/)
