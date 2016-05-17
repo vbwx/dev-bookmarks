@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Install dependencies
+command -v marked > /dev/null || npm install -g marked
+
 cat \
 	_bookmarks.md \
 	apps.md \
