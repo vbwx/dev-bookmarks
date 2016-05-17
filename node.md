@@ -4,6 +4,7 @@
 * [npm](https://www.npmjs.com/)
 * [Bower](http://bower.io/search/)
 * [node.js](http://nodejs.org/)
+* [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 * [Jade - Template Engine](http://jade-lang.com/)
 * [Express - node.js web application framework](http://expressjs.com/)
