@@ -8,3 +8,4 @@
 * [Browse Happy](http://browsehappy.ch/)
 * [Video for Everybody!](http://camendesign.com/code/video_for_everybody)
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
