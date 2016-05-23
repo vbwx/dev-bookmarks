@@ -13,7 +13,7 @@ cat <<-'EOF' > WebDev.html
 EOF
 sed 's/#nodejs/#node-js/' body.html | sed 's/<!--div-->/<div>/' | sed 's/<!--\/div-->/<\/div>/' >> WebDev.html
 cat <<-'EOF' >> WebDev.html
-<script>$=function(n,f){[].forEach.call(document.getElementsByTagName(n),f)},toggle=function(b){['h1','h2','h3'].forEach(function(h){$(h,function(t){t.className=b?'o':'c'})})};['h2','h3'].forEach(function(h){$(h,function(t){t.addEventListener('click',function(){this.className=this.className==='c'?'o':'c'})})});$('h1',function(t){t.addEventListener('click',function(){toggle(this.className==='c')})});$('a',function(t){if(t.getAttribute('href')[0]!=='#')t.target="_blank"});toggle(!1)</script>
+	<script>$=function(n,f){[].forEach.call(document.getElementsByTagName(n),f)},toggle=function(b){['h1','h2','h3'].forEach(function(h){$(h,function(t){t.className=b?'o':'c'})})};['h2','h3'].forEach(function(h){$(h,function(t){t.addEventListener('click',function(){this.className=this.className==='c'?'o':'c'})})});$('h1',function(t){t.addEventListener('click',function(){toggle(this.className==='c')})});$('a',function(t){if(t.getAttribute('href')[0]!=='#')t.target="_blank"});toggle(!1)</script>
 	</body></html>
 EOF
 rm -f body.html
