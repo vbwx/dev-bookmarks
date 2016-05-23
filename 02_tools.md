@@ -6,7 +6,7 @@
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [image-to-DataURI converter](http://duri.me/)
 
-### Fonts
+### Font Tools
 * [Web Font Generator](http://www.web-font-generator.com/)
 * [Free Online Font Converter](http://www.freefontconverter.com/)
 * [What Font is](http://www.whatfontis.com/)
