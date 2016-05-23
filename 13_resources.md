@@ -1,5 +1,6 @@
 
 ## Resources
+<!--div-->
 
 ### Web Design
 * [ThemeForest](http://themeforest.net/)
@@ -24,3 +25,5 @@
 ### Fonts
 * [Typekit](https://typekit.com/)
 * [Google Web Fonts](http://www.google.com/fonts/)
+
+<!--/div-->
