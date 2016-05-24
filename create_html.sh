@@ -11,7 +11,7 @@ cat <<-'EOF' > WebDev.html
 		<style>body{font:0.9em/1.4 "Helvetica Neue",Helvetica,Arial,sans-serif}h2,h2+ul{margin-left:2rem}h3,h3+ul{margin-left:4rem}ul{list-style:none;padding-left:2rem}h1,h2,h3{font-weight:normal;cursor:pointer}a{outline:none;text-decoration:none}a:focus{text-decoration:underline}a:link,a:visited{color:#0261E5}a:active,a:focus,a:hover{color:#102EA1}.c+ul,.c+div{display:none}.c::before{content:'▸ '}.o{position:relative;left:-0.21ex}.o::before{content:'▾ '}</style>
 	</head><body>
 EOF
-sed 's/#nodejs/#node-js/' body.html | sed -E 's/<!--([a-z0-9\/]+)-->/<\1>/g' >> WebDev.html
+sed -E 's/<!--([a-z0-9\/]+)-->/<\1>/g' body.html >> WebDev.html
 cat <<-'EOF' >> WebDev.html
 	<script>$=function(n,f){[].forEach.call(document.getElementsByTagName(n),f)},toggle=function(b){['h1','h2','h3'].forEach(function(h){$(h,function(t){t.className=b?'o':'c'})})};['h2','h3'].forEach(function(h){$(h,function(t){t.addEventListener('click',function(){this.className=this.className==='c'?'o':'c'})})});$('h1',function(t){t.addEventListener('click',function(){toggle(this.className==='c')})});$('a',function(t){if(t.getAttribute('href')[0]!=='#')t.target="_blank"});toggle(!1)</script>
 	</body></html>

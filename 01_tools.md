@@ -38,5 +38,7 @@
 * [CodePen](http://codepen.io/pen)
 * [Google PageRank Checker](http://www.prchecker.info/)
 * [Decode online](http://decode.urih.com/)
+* [Reflector 2](http://www.airsquirrels.com/reflector/) (commercial)
+* [AirServer](http://www.airserver.com/) (commercial)
 
 <!--/div-->
