@@ -33,7 +33,7 @@
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
-### Miscellaneous
+### Misc Tools
 * [SQL Fiddle](http://sqlfiddle.com/#)
 * [CodePen](http://codepen.io/pen)
 * [Google PageRank Checker](http://www.prchecker.info/)
