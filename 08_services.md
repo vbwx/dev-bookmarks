@@ -1,5 +1,6 @@
 
 ## Services
+<!--div-->
 
 ### Images
 * [placekitten](http://placekitten.com/)
@@ -20,3 +21,5 @@
 ### Misc Services
 * [IP Geolocation JSON API](https://ip2country.info/)
 * [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html)
+
+<!--/div-->
