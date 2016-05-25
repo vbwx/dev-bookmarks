@@ -6,7 +6,7 @@
   * [Colors](#colors)
   * [HTML](#html-tools)
   * [CSS](#css-tools)
-  * [Data Formats](#data-formats)
+  * [Formats](#formats)
   * [Server](#server-tools)
   * [Miscellaneous](#misc-tools)
 * [Frameworks](#frameworks)
@@ -65,8 +65,9 @@
 * [CSS3 Generator](http://css3generator.com/)
 * [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-### Data Formats
+### Formats
 * [JSONLint](http://pro.jsonlint.com/)
+* [Pandoc](http://pandoc.org/)
 
 ### Server Tools
 * [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
