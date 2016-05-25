@@ -3,7 +3,7 @@
 # Install dependencies
 command -v marked > /dev/null || npm install -g marked
 
-cat *.md | marked -o body.html
+cat Bookmarks.md | marked -o body.html
 cat <<-'EOF' > WebDev.html
 	<!DOCTYPE html><html><head>
 		<meta charset="utf-8">
