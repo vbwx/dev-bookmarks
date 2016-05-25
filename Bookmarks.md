@@ -8,18 +8,18 @@
   * [CSS](#css-tools)
   * [Formats](#formats)
   * [Server](#server-tools)
+  * [Social Media](#social-media)
   * [Miscellaneous](#misc-tools)
-* [Frameworks](#frameworks)
 * [HTML](#html)
 * [CSS](#css)
 * [JavaScript](#javascript)
   * [Libraries](#libraries)
+  * [Frameworks](#frameworks)
   * [Widgets](#widgets)
   * [Polyfills](#polyfills)
   * [jQuery Plugins](#jquery-plugins)
   * [Node Modules](#node-modules)
 * [WordPress](#wordpress)
-* [Social Media](#social-media)
 * [Services](#services)
   * [Images](#images)
   * [Hosting](#hosting)
@@ -74,6 +74,10 @@
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
+### Social Media
+* [Find your Facebook ID](http://findmyfacebookid.com/)
+* [Facebook Debugger](https://developers.facebook.com/tools/debug)
+
 ### Misc Tools
 * [SQL Fiddle](http://sqlfiddle.com/#)
 * [CodePen](http://codepen.io/pen)
@@ -118,6 +122,8 @@
 ## JavaScript
 <!--div-->
 
+### Frameworks
+
 ### Libraries
 
 * [jQuery](http://jquery.com/)
@@ -140,6 +146,8 @@
 * [Galleria](http://galleria.io/)
 * [Prism](http://prismjs.com/)
 * [spin.js](http://fgnass.github.com/spin.js/)
+* [+1 Button](https://developers.google.com/+/web/+1button/)
+* [Facebook Social Plugins](http://developers.facebook.com/docs/plugins/)
 
 ### Polyfills
 
@@ -218,13 +226,6 @@
 * [Types](https://wordpress.org/plugins/types/)
 * [Timber](https://github.com/jarednova/timber)
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/)
-
-## Social Media
-
-* [+1 Button](https://developers.google.com/+/web/+1button/)
-* [Facebook Social Plugins](http://developers.facebook.com/docs/plugins/)
-* [Find your Facebook ID](http://findmyfacebookid.com/)
-* [Facebook Debugger](https://developers.facebook.com/tools/debug)
 
 ## Services
 <!--div-->
@@ -307,3 +308,6 @@
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 * [Vim Cheat Sheet](http://vimsheet.com/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
+- - -
+_Copyright &copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
