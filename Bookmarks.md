@@ -310,4 +310,4 @@
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
 - - -
-_Copyright &copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
+_&copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
