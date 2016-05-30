@@ -6,6 +6,7 @@
   * [Colors](#colors)
   * [HTML](#html-tools)
   * [CSS](#css-tools)
+  * [JavaScript](#javascript-tools)
   * [Formats](#formats)
   * [Server](#server-tools)
   * [Social Media](#social-media)
@@ -35,6 +36,7 @@
 * [Know-How](#know-how)
 
 ## Other Collections
+
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 
 - - -
@@ -64,6 +66,9 @@
 ### CSS Tools
 * [CSS3 Generator](http://css3generator.com/)
 * [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+
+### JavaScript Tools
+* [Visual regex tester](https://www.debuggex.com/)
 
 ### Formats
 * [JSONLint](http://pro.jsonlint.com/)
@@ -96,18 +101,14 @@
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [Swagger](http://swagger.io/)
 * [Polymer](https://www.polymer-project.org/1.0/)
-* [Ember.js](http://emberjs.com/)
-* [The Responsive Email Framework](https://mjml.io/)
-* [AngularJS](http://angularjs.org/)
-* [Cappuccino Web Framework](http://www.cappuccino-project.org/)
 * [Electron](http://electron.atom.io/)
-* [Tower.js](http://towerjs.org/)
 * [Meteor](https://www.meteor.com/)
 
 ## HTML
 
 * [Patterns for Responsive HTML Email Templates](http://tedgoas.github.io/Cerberus/)
 * [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
+* [The Responsive Email Framework](https://mjml.io/)
 
 ## CSS
 
@@ -123,6 +124,9 @@
 <!--div-->
 
 ### Frameworks
+* [Ember.js](http://emberjs.com/)
+* [AngularJS](http://angularjs.org/)
+* [Tower.js](http://towerjs.org/)
 
 ### Libraries
 
