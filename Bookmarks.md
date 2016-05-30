@@ -179,7 +179,6 @@
 * [Slideshowify](http://slideshowify.com/)
 * [bxSlider](http://bxslider.com/)
 * [Unslider — the super-tiny jQuery slider](http://unslider.com/)
-* [Cycle2](http://jquery.malsup.com/cycle2/)
 * [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 
 ### Node Modules
