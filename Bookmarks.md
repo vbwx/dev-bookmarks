@@ -139,6 +139,7 @@
 * [Backbone.js](http://backbonejs.org/)
 * [D3.js](http://d3js.org/)
 * [Rivets.js](http://rivetsjs.com/)
+* [Vanilla JavaScript Repository](http://www.vanillalist.com/)
 
 ### Widgets
 
