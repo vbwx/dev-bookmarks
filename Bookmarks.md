@@ -313,6 +313,7 @@
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 * [Vim Cheat Sheet](http://vimsheet.com/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
 
 - - -
 _&copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
