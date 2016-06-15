@@ -11,11 +11,10 @@
   * [Server](#server-tools)
   * [Social Media](#social-media)
   * [Miscellaneous](#misc-tools)
-* [HTML](#html)
+* [Frameworks](#frameworks)
 * [CSS](#css)
 * [JavaScript](#javascript)
   * [Libraries](#libraries)
-  * [Frameworks](#frameworks)
   * [Widgets](#widgets)
   * [Polyfills](#polyfills)
   * [jQuery Plugins](#jquery-plugins)
@@ -69,6 +68,7 @@
 
 ### JavaScript Tools
 * [Visual regex tester](https://www.debuggex.com/)
+* [Node.js](https://nodejs.org/)
 
 ### Formats
 * [JSONLint](http://pro.jsonlint.com/)
@@ -91,24 +91,25 @@
 * [Reflector 2](http://www.airsquirrels.com/reflector/) (commercial)
 * [AirServer](http://www.airserver.com/) (commercial)
 * [Mega Boilerplate](http://megaboilerplate.com/)
+* [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
+* [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/)
 
 <!--/div-->
 
 ## Frameworks
 
-* [Foundation](http://foundation.zurb.com/)
+* [Ember.js](http://emberjs.com/)
+* [AngularJS](http://angularjs.org/)
+* [Tower.js](http://towerjs.org/)
 * [Skeleton](http://www.getskeleton.com/)
 * [UIkit](http://getuikit.com/)
-* [Bootstrap](http://twitter.github.com/bootstrap/)
+* [Foundation](http://foundation.zurb.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Polymer](https://www.polymer-project.org/)
 * [Swagger](http://swagger.io/)
-* [Polymer](https://www.polymer-project.org/1.0/)
 * [Electron](http://electron.atom.io/)
 * [Meteor](https://www.meteor.com/)
-
-## HTML
-
-* [Patterns for Responsive HTML Email Templates](http://tedgoas.github.io/Cerberus/)
-* [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
+* [Express](http://expressjs.com/)
 * [The Responsive Email Framework](https://mjml.io/)
 
 ## CSS
@@ -124,18 +125,12 @@
 ## JavaScript
 <!--div-->
 
-### Frameworks
-* [Ember.js](http://emberjs.com/)
-* [AngularJS](http://angularjs.org/)
-* [Tower.js](http://towerjs.org/)
-
 ### Libraries
 
 * [jQuery](http://jquery.com/)
 * [jQuery UI](http://jqueryui.com/)
 * [Datejs](http://www.datejs.com/)
 * [Underscore.js](http://underscorejs.org/)
-* [JSON-js](https://github.com/douglascrockford/JSON-js)
 * [Chart.js](http://www.chartjs.org/)
 * [Backbone.js](http://backbonejs.org/)
 * [D3.js](http://d3js.org/)
@@ -162,6 +157,7 @@
 * [html5shiv](https://github.com/aFarkas/html5shiv/)
 * [html5media](https://github.com/etianen/html5media)
 * [Respond](https://github.com/scottjehl/Respond)
+* [JSON-js](https://github.com/douglascrockford/JSON-js)
 
 ### jQuery Plugins
 
@@ -195,9 +191,6 @@
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 * [postcss](https://github.com/postcss/postcss)
-* [Jade](http://jade-lang.com/)
-* [html2jade](https://github.com/donpark/html2jade)
-* [Express](http://expressjs.com/)
 * [Browserify](http://browserify.org/)
 
 <!--/div-->
@@ -314,6 +307,7 @@
 * [Vim Cheat Sheet](http://vimsheet.com/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
+* [Dive Into HTML5](http://diveintohtml5.info)
 
 - - -
 _&copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
