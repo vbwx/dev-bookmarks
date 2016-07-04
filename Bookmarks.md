@@ -26,6 +26,7 @@
   * [Domains](#domains)
   * [Miscellaneous](#misc-services)
 * [Resources](#resources)
+  * [Development](#development)
   * [Web Design](#web-design)
   * [Stock Photos](#stock-photos)
   * [Graphics](#graphics)
@@ -252,6 +253,9 @@
 
 ## Resources
 <!--div-->
+
+### Development
+* [Awesome Vim Plugins](http://vimawesome.com/)
 
 ### Web Design
 * [ThemeForest](http://themeforest.net/)
