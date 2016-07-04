@@ -275,7 +275,7 @@
 ### Icons
 * [IconDock](http://icondock.com/)
 * [IcoMoon](https://icomoon.io/)
-* [Font Awesome](http://fontawesome.io/)
+* [Font Awesome](http://fontawesome.io/icons/)
 
 ### Fonts
 * [Typekit](https://typekit.com/)
