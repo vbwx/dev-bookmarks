@@ -34,6 +34,7 @@
   * [Fonts](#fonts)
 * [Web Design Inspiration](#web-design-inspiration)
 * [Know-How](#know-how)
+* [Silly Things](#silly-things)
 
 ## Other Collections
 
@@ -312,6 +313,9 @@
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
 * [Dive Into HTML5](http://diveintohtml5.info)
+
+## Silly Things
+* [console.image](https://github.com/adriancooney/console.image)
 
 - - -
 _&copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
