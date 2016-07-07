@@ -231,7 +231,6 @@
 <!--div-->
 
 ### Images
-* [placekitten](http://placekitten.com/)
 * [Placehold.it](http://placehold.it/)
 
 ### Hosting
@@ -316,6 +315,7 @@
 
 ## Silly Things
 * [console.image](https://github.com/adriancooney/console.image)
+* [placekitten](http://placekitten.com/)
 
 - - -
 _&copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
