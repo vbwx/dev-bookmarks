@@ -31,6 +31,7 @@
   * [Stock Photos](#stock-photos)
   * [Graphics](#graphics)
   * [Icons](#icons)
+  * [Music](#music)
   * [Fonts](#fonts)
 * [Web Design Inspiration](#web-design-inspiration)
 * [Know-How](#know-how)
@@ -276,6 +277,13 @@
 * [IconDock](http://icondock.com/)
 * [IcoMoon](https://icomoon.io/)
 * [Font Awesome](http://fontawesome.io/icons/)
+
+### Music
+* [Freeplay Music](http://www.freeplaymusic.com)
+* [Royalty Free Music](http://www.royaltyfreemusic.com)
+* [PremiumBeat](http://www.premiumbeat.com)
+* [Royalty Free Music Library](http://www.royaltyfreemusiclibrary.com)
+* [Free Music Archive](https://freemusicarchive.org)
 
 ### Fonts
 * [Typekit](https://typekit.com/)
