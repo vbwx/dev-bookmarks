@@ -185,6 +185,7 @@
 * [bxSlider](http://bxslider.com/)
 * [Unslider — the super-tiny jQuery slider](http://unslider.com/)
 * [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
+* [BigText](https://github.com/zachleat/BigText)
 
 ### Node Modules
 
