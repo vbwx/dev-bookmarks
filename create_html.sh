@@ -17,13 +17,3 @@ cat <<-'EOF' >> index.html
 	</body></html>
 EOF
 rm -f body.html
-
-if [ $(pwd) = "/Users/vbwx/Projects/Utilities/dev-bookmarks" ]; then
-	git add index.html
-	git stash
-	git checkout gh-pages
-	rm index.html
-	git stash apply
-	git commit -am "Publish"
-	git push
-fi
