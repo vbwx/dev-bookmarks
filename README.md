@@ -91,8 +91,6 @@
 * [CodePen](http://codepen.io/pen)
 * [Google PageRank Checker](http://www.prchecker.info/)
 * [Decode online](http://decode.urih.com/)
-* [Reflector 2](http://www.airsquirrels.com/reflector/) (commercial)
-* [AirServer](http://www.airserver.com/) (commercial)
 * [Mega Boilerplate](http://megaboilerplate.com/)
 * [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
 * [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/)
