@@ -293,9 +293,7 @@
 ## Web Design Inspiration
 
 * [blacknegative](http://blacknegative.com/#!/whoweare/)
-* [Drexel University](http://getgoingtoday.org/)
 * [James Bond 007 Cars Evolution | Evans Halshaw](http://www.evanshalshaw.com/bondcars/)
-* [inTacto 10 Years](http://www.intacto10years.com/index_start.php)
 * [Manufacture d'Essai](http://www.manufacturedessai.it/it/)
 * [iutopi - Creative Land / Branding, Graphic & Web Design](http://www.iutopi.com/)
 * [Whiteboard | We empower visionaries to lead meaningful brands.](http://whiteboard.is/)
