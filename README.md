@@ -242,6 +242,7 @@
 * [Amazon Web Services](https://aws.amazon.com/)
 * [Google Cloud Platform](https://cloud.google.com/)
 * [GitHub Pages](https://pages.github.com/)
+* [Speaker Deck](https://speakerdeck.com)
 
 ### Domains
 * [Namecheap](https://www.namecheap.com/)
