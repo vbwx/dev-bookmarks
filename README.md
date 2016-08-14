@@ -18,7 +18,7 @@
   * [Widgets](#widgets)
   * [Polyfills](#polyfills)
   * [jQuery Plugins](#jquery-plugins)
-  * [Node Modules](#node-modules)
+  * [Node Packages](#node-packages)
 * [WordPress](#wordpress)
 * [Services](#services)
   * [Images](#images)
@@ -26,7 +26,7 @@
   * [Domains](#domains)
   * [Miscellaneous](#misc-services)
 * [Resources](#resources)
-  * [Development](#development)
+  * [Repositories](#software-repositories)
   * [Web Design](#web-design)
   * [Stock Photos](#stock-photos)
   * [Graphics](#graphics)
@@ -127,7 +127,6 @@
 <!--div-->
 
 ### Libraries
-
 * [jQuery](http://jquery.com/)
 * [jQuery UI](http://jqueryui.com/)
 * [Datejs](http://www.datejs.com/)
@@ -139,7 +138,6 @@
 * [Vanilla JavaScript Repository](http://www.vanillalist.com/)
 
 ### Widgets
-
 * [hallo - Simple HTML Rich Text Editor](https://github.com/bergie/hallo)
 * [CKEditor.com](http://ckeditor.com/)
 * [Redactor WYSIWYG html editor](http://imperavi.com/redactor/)
@@ -152,7 +150,6 @@
 * [Facebook Social Plugins](http://developers.facebook.com/docs/plugins/)
 
 ### Polyfills
-
 * [Modernizr](http://modernizr.com/)
 * [hyphenator](https://github.com/mnater/hyphenator)
 * [html5shiv](https://github.com/aFarkas/html5shiv/)
@@ -161,7 +158,6 @@
 * [JSON-js](https://github.com/douglascrockford/JSON-js)
 
 ### jQuery Plugins
-
 * [Fancybox](http://fancybox.net/)
 * [Flexigrid](http://flexigrid.info/)
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)
@@ -185,10 +181,8 @@
 * [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 * [BigText](https://github.com/zachleat/BigText)
 
-### Node Modules
-
-* [npm](https://www.npmjs.com/)
-* [Bower](http://bower.io/search/)
+### Node Packages
+* [Bower](http://bower.io/)
 * [Harp](http://harpjs.com/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
@@ -255,7 +249,12 @@
 ## Resources
 <!--div-->
 
-### Development
+### Software Repositories
+* [Homebrew Formulas](http://brewformulas.org/)
+* [Homebrew Casks](https://caskroom.github.io/search)
+* [Chocolatey Packages](https://chocolatey.org/packages)
+* [Node Packages](https://www.npmjs.com/)
+* [Bower Packages](http://bower.io/search/)
 * [Awesome Vim Plugins](http://vimawesome.com/)
 
 ### Web Design
