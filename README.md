@@ -101,6 +101,7 @@
 
 * [Ember.js](http://emberjs.com/)
 * [AngularJS](http://angularjs.org/)
+* [Riot.js](http://riotjs.com)
 * [Tower.js](http://towerjs.org/)
 * [Skeleton](http://www.getskeleton.com/)
 * [UIkit](http://getuikit.com/)
