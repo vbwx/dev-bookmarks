@@ -113,6 +113,7 @@
 * [Meteor](https://www.meteor.com/)
 * [Express](http://expressjs.com/)
 * [The Responsive Email Framework](https://mjml.io/)
+* [NativeScript](https://www.nativescript.org)
 
 ## CSS
 
@@ -181,6 +182,9 @@
 * [Unslider — the super-tiny jQuery slider](http://unslider.com/)
 * [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 * [BigText](https://github.com/zachleat/BigText)
+* [Isotope](http://isotope.metafizzy.co)
+* [Flickity](http://flickity.metafizzy.co)
+* [Packery](http://packery.metafizzy.co)
 
 ### Node Packages
 * [Bower](http://bower.io/)
