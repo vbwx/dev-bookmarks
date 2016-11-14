@@ -19,8 +19,10 @@ cat <<-'EOF' >> index.html
 EOF
 rm -f body.html
 
-if [ $(pwd) = "/Users/vbwx/Projects/Utilities/dev-bookmarks" ]; then
-	git commit -a && git push
+if [ $USER = "vbwx" ]; then
+	echo -n "Commit message: "
+	read msg
+	git commit -am "$msg" && git push
 	git checkout gh-pages && git checkout --patch master index.html
-	git commit -am "Publish" && git push && git checkout master
+	git commit -am "$msg" && git push && git checkout master
 fi
