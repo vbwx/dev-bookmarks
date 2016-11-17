@@ -138,6 +138,7 @@
 * [D3.js](http://d3js.org/)
 * [Rivets.js](http://rivetsjs.com/)
 * [Vanilla JavaScript Repository](http://www.vanillalist.com/)
+* [RxJS](http://reactivex.io/rxjs/)
 
 ### Widgets
 * [hallo - Simple HTML Rich Text Editor](https://github.com/bergie/hallo)
