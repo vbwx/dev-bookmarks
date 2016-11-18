@@ -195,6 +195,9 @@
 * [postcss](https://github.com/postcss/postcss)
 * [Browserify](http://browserify.org/)
 * [Webpack](http://webpack.github.io/)
+* [CoffeeScript](http://coffeescript.org/)
+* [TypeScript](http://www.typescriptlang.org)
+* [Babel](https://babeljs.io)
 
 <!--/div-->
 
