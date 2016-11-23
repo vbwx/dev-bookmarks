@@ -132,7 +132,6 @@
 ### Libraries
 * [jQuery](http://jquery.com/)
 * [jQuery UI](http://jqueryui.com/)
-* [Datejs](http://www.datejs.com/)
 * [Underscore.js](http://underscorejs.org/)
 * [Chart.js](http://www.chartjs.org/)
 * [D3.js](http://d3js.org/)
@@ -198,6 +197,7 @@
 * [CoffeeScript](http://coffeescript.org/)
 * [TypeScript](http://www.typescriptlang.org)
 * [Babel](https://babeljs.io)
+* [Moment.js](http://momentjs.com/)
 
 <!--/div-->
 
