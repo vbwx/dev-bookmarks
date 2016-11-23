@@ -114,6 +114,7 @@
 * [Express](http://expressjs.com/)
 * [The Responsive Email Framework](https://mjml.io/)
 * [NativeScript](https://www.nativescript.org)
+* [Ampersand.js](https://ampersandjs.com/)
 
 ## CSS
 
@@ -134,7 +135,6 @@
 * [Datejs](http://www.datejs.com/)
 * [Underscore.js](http://underscorejs.org/)
 * [Chart.js](http://www.chartjs.org/)
-* [Backbone.js](http://backbonejs.org/)
 * [D3.js](http://d3js.org/)
 * [Rivets.js](http://rivetsjs.com/)
 * [Vanilla JavaScript Repository](http://www.vanillalist.com/)
