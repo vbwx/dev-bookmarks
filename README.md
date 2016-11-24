@@ -1,17 +1,19 @@
 # Web Development Bookmarks
 
 * [Tools](#tools)
-  * [Media](#media)
+  * [Media](#media-tools)
   * [Fonts](#font-tools)
-  * [Colors](#colors)
+  * [Colors](#color-tools)
   * [HTML](#html-tools)
   * [CSS](#css-tools)
   * [JavaScript](#javascript-tools)
-  * [Formats](#formats)
+  * [File Formats](#file-format-tools)
   * [Server](#server-tools)
-  * [Social Media](#social-media)
+  * [Database](#database-tools)
+  * [Social Media](#social-media-tools)
   * [Miscellaneous](#misc-tools)
 * [Frameworks](#frameworks)
+* [Boilerplates](#boilerplates)
 * [CSS](#css)
 * [JavaScript](#javascript)
   * [Libraries](#libraries)
@@ -46,7 +48,7 @@
 ## Tools
 <!--div-->
 
-### Media
+### Media Tools
 * [Online Audio Converter](http://media.io/)
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [image-to-DataURI converter](http://duri.me/)
@@ -56,7 +58,7 @@
 * [Free Online Font Converter](http://www.freefontconverter.com/)
 * [What Font is](http://www.whatfontis.com/)
 
-### Colors
+### Color Tools
 * [Color Safe](http://colorsafe.co/)
 * [Color Converter](http://www.workwithcolor.com/color-converter-01.htm)
 
@@ -73,27 +75,27 @@
 * [Visual regex tester](https://www.debuggex.com/)
 * [Node.js](https://nodejs.org/)
 
-### Formats
-* [JSONLint](http://pro.jsonlint.com/)
-* [Pandoc](http://pandoc.org/)
-
 ### Server Tools
 * [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
-### Social Media
+### File Format Tools
+* [JSONLint](http://pro.jsonlint.com/)
+* [Pandoc](http://pandoc.org/)
+
+### Database Tools
+* [SQL Fiddle](http://sqlfiddle.com/#)
+
+### Social Media Tools
 * [Find your Facebook ID](http://findmyfacebookid.com/)
 * [Facebook Debugger](https://developers.facebook.com/tools/debug)
 
 ### Misc Tools
-* [SQL Fiddle](http://sqlfiddle.com/#)
 * [CodePen](http://codepen.io/pen)
 * [Google PageRank Checker](http://www.prchecker.info/)
 * [Decode online](http://decode.urih.com/)
-* [Mega Boilerplate](http://megaboilerplate.com/)
-* [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
-* [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/)
+* [Kitematic](https://kitematic.com/)
 
 <!--/div-->
 
@@ -115,6 +117,12 @@
 * [The Responsive Email Framework](https://mjml.io/)
 * [NativeScript](https://www.nativescript.org)
 * [Ampersand.js](https://ampersandjs.com/)
+
+## Boilerplates
+
+* [Mega Boilerplate](http://megaboilerplate.com/)
+* [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
+* [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/)
 
 ## CSS
 
