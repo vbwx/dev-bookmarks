@@ -206,6 +206,7 @@
 * [TypeScript](http://www.typescriptlang.org)
 * [Babel](https://babeljs.io)
 * [Moment.js](http://momentjs.com/)
+* [HTML to PDF converter](https://github.com/marcbachmann/node-html-pdf)
 
 <!--/div-->
 
