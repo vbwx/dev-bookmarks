@@ -146,6 +146,7 @@
 * [Rivets.js](http://rivetsjs.com/)
 * [Vanilla JavaScript Repository](http://www.vanillalist.com/)
 * [RxJS](http://reactivex.io/rxjs/)
+* [ASCIIMathML](https://github.com/asciimath/asciimathml)
 
 ### Widgets
 * [hallo - Simple HTML Rich Text Editor](https://github.com/bergie/hallo)
@@ -172,7 +173,7 @@
 * [Flexigrid](http://flexigrid.info/)
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)
 * [jQuery Quicksand plugin](http://razorjack.net/quicksand/)
-* [Chosen - makes select boxes better](http://harvesthq.github.com/chosen/)
+* [Chosen](http://harvesthq.github.com/chosen/)
 * [Facebook-style tooltip](http://onehackoranother.com/projects/jquery/tipsy/)
 * [Simple Effects for Drop-Down Lists](http://tympanus.net/Development/SimpleDropDownEffects/index.html)
 * [Scroll Path](http://joelb.me/scrollpath/)
@@ -187,8 +188,8 @@
 * [Collapse](http://webcloud.se/jQuery-Collapse/)
 * [Slideshowify](http://slideshowify.com/)
 * [bxSlider](http://bxslider.com/)
-* [Unslider — the super-tiny jQuery slider](http://unslider.com/)
-* [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
+* [Unslider](http://unslider.com/)
+* [slick](http://kenwheeler.github.io/slick/)
 * [BigText](https://github.com/zachleat/BigText)
 * [Isotope](http://isotope.metafizzy.co)
 * [Flickity](http://flickity.metafizzy.co)
@@ -207,6 +208,7 @@
 * [Babel](https://babeljs.io)
 * [Moment.js](http://momentjs.com/)
 * [HTML to PDF converter](https://github.com/marcbachmann/node-html-pdf)
+* [Typeset](https://github.com/davidmerfield/typeset)
 
 <!--/div-->
 
