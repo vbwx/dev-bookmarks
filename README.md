@@ -26,6 +26,7 @@
   * [Images](#images)
   * [Hosting](#hosting)
   * [Domains](#domains)
+  * [Analytics & Monitoring](#analytics-monitoring)
   * [Miscellaneous](#misc-services)
 * [Resources](#resources)
   * [Repositories](#software-repositories)
@@ -260,6 +261,10 @@
 ### Domains
 * [Namecheap](https://www.namecheap.com/)
 * [JS.ORG](http://dns.js.org/)
+
+### Analytics & Monitoring
+* [Sentry](https://sentry.io/)
+* [Hotjar](https://www.hotjar.com/)
 
 ### Misc Services
 * [IP Geolocation JSON API](https://ip2country.info/)
