@@ -330,6 +330,7 @@
 
 ## Know-How
 
+* [Development Cheat Sheets](https://gist.github.com/vbwx/4f4598bbf17bde96e36e70a0d4c39893)
 * [Stack Overflow - Documentation](http://stackoverflow.com/documentation)
 * [The Web Robots Pages](http://www.robotstxt.org/)
 * [CSS-Tricks](http://css-tricks.com/)
