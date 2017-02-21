@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -euo pipefail
+set -eo pipefail
 
 # Install dependencies
 command -v marked > /dev/null || npm install -g marked
@@ -21,10 +21,12 @@ cat <<-'EOF' >> index.html
 EOF
 rm -f body.html
 
-if [ $USER = "vbwx" ]; then
-	echo -n "Commit message: "
-	read msg
-	git commit -am "$msg" && git push
+if [ "$1" = "-c" ]; then
+	if [ -z "$2" ]; then
+		>&2 echo "create_html: Commit message argument missing"
+		exit 1
+	fi
+	git commit -am "$2" && git push
 	git checkout gh-pages && git checkout --patch master index.html
-	git commit -am "$msg" && git push && git checkout master
+	git commit -am "$2" && git push && git checkout master
 fi
