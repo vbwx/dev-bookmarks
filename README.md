@@ -43,6 +43,7 @@
 ## Other Collections
 
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
+* [Free Learning Resources](https://github.com/vhf/free-programming-books)
 
 - - -
 
