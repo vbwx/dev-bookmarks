@@ -153,11 +153,12 @@
 ### Widgets
 * [hallo - Simple HTML Rich Text Editor](https://github.com/bergie/hallo)
 * [CKEditor.com](http://ckeditor.com/)
+* [Prism](http://prismjs.com/)
+* [Ace - Code Editor for the Web](https://ace.c9.io/)
 * [Redactor WYSIWYG html editor](http://imperavi.com/redactor/)
 * [HTML5 Video Player](http://www.videojs.com/)
 * [Lightbox 2](http://lokeshdhakar.com/projects/lightbox2/)
 * [Galleria](http://galleria.io/)
-* [Prism](http://prismjs.com/)
 * [spin.js](http://fgnass.github.com/spin.js/)
 * [+1 Button](https://developers.google.com/+/web/+1button/)
 * [Facebook Social Plugins](http://developers.facebook.com/docs/plugins/)
