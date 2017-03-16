@@ -271,6 +271,7 @@
 ### Misc Services
 * [IP Geolocation JSON API](https://ip2country.info/)
 * [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html)
+* [Human Online Forms](https://www.typeform.com/)
 
 <!--/div-->
 
