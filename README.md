@@ -212,6 +212,7 @@
 * [Moment.js](http://momentjs.com/)
 * [HTML to PDF converter](https://github.com/marcbachmann/node-html-pdf)
 * [Typeset](https://github.com/davidmerfield/typeset)
+* [Parser Generator for JavaScript](https://pegjs.org/)
 
 <!--/div-->
 
