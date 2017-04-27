@@ -352,4 +352,4 @@
 * [placekitten](http://placekitten.com/)
 
 - - -
-_&copy; 2016 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
+_&copy; 2016&ndash;2017 [Bernhard Waldbrunner](http://www.rethinkux.com/)_
