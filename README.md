@@ -103,8 +103,7 @@
 
 ## Frameworks
 
-* [Ember.js](http://emberjs.com/)
-* [AngularJS](http://angularjs.org/)
+* [Angular](https://angular.io/)
 * [Riot.js](http://riotjs.com)
 * [Tower.js](http://towerjs.org/)
 * [Skeleton](http://www.getskeleton.com/)
@@ -144,7 +143,7 @@
 * [jQuery UI](http://jqueryui.com/)
 * [Underscore.js](http://underscorejs.org/)
 * [Chart.js](http://www.chartjs.org/)
-* [D3.js](http://d3js.org/)
+* [Chartist](https://gionkunz.github.io/chartist-js/)
 * [Rivets.js](http://rivetsjs.com/)
 * [Vanilla JavaScript Repository](http://www.vanillalist.com/)
 * [RxJS](http://reactivex.io/rxjs/)
@@ -213,6 +212,9 @@
 * [HTML to PDF converter](https://github.com/marcbachmann/node-html-pdf)
 * [Typeset](https://github.com/davidmerfield/typeset)
 * [Parser Generator for JavaScript](https://pegjs.org/)
+* [Drop](https://github.com/HubSpot/drop)
+* [Tooltip](https://github.com/HubSpot/tooltip)
+* [Shepherd](https://github.com/HubSpot/shepherd)
 
 <!--/div-->
 

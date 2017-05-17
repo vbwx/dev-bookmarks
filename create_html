@@ -3,7 +3,7 @@
 set -e
 
 # Install dependencies
-type -t marked &> /dev/null || npm install -g marked
+type -t marked > /dev/null || npm install -g marked
 
 cat README.md | marked -o body.html
 cat <<-'EOF' > index.html
