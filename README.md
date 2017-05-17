@@ -212,9 +212,7 @@
 * [HTML to PDF converter](https://github.com/marcbachmann/node-html-pdf)
 * [Typeset](https://github.com/davidmerfield/typeset)
 * [Parser Generator for JavaScript](https://pegjs.org/)
-* [Drop](https://github.com/HubSpot/drop)
-* [Tooltip](https://github.com/HubSpot/tooltip)
-* [Shepherd](https://github.com/HubSpot/shepherd)
+* [Popper.js](https://popper.js.org/)
 
 <!--/div-->
 
