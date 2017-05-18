@@ -213,6 +213,7 @@
 * [Typeset](https://github.com/davidmerfield/typeset)
 * [Parser Generator for JavaScript](https://pegjs.org/)
 * [Popper.js](https://popper.js.org/)
+* [Dragula](https://bevacqua.github.io/dragula/)
 
 <!--/div-->
 
