@@ -271,7 +271,7 @@
 * [Hotjar](https://www.hotjar.com/)
 
 ### Misc Services
-* [IP Geolocation JSON API](https://ip2country.info/)
+* [freegeoip.net](https://freegeoip.net/)
 * [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html)
 * [Human Online Forms](https://www.typeform.com/)
 
