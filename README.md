@@ -32,8 +32,7 @@
   * [Repositories](#software-repositories)
   * [Web Design](#web-design)
   * [Stock Photos](#stock-photos)
-  * [Graphics](#graphics)
-  * [Icons](#icons)
+  * [Graphics & Icons](#graphics-icons)
   * [Audio](#audio)
   * [Fonts](#fonts)
 * [Web Design Inspiration](#web-design-inspiration)
@@ -290,9 +289,11 @@
 
 ### Web Design
 * [ThemeForest](http://themeforest.net/)
+* [CodeCanyon](https://codecanyon.net/)
 
 ### Stock Photos
 * [Getty Images](http://www.gettyimages.com/)
+* [PhotoDune](https://photodune.net/)
 * [Fotolia](http://de.fotolia.com/)
 * [Pixabay](https://pixabay.com/)
 * [Stock Photography](http://www.istockphoto.com/)
@@ -300,16 +301,16 @@
 * [Free stock photos](https://www.pexels.com/)
 * [Unsplash](https://unsplash.com/)
 
-### Graphics
+### Graphics & Icons
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Free Striped Fabric Textures for your Designs](http://naldzgraphics.net/freebies/40-free-striped-fabric-textures-for-your-designs/)
-
-### Icons
+* [GraphicRiver](https://graphicriver.net/)
 * [IconDock](http://icondock.com/)
 * [IcoMoon](https://icomoon.io/)
 * [Font Awesome](http://fontawesome.io/icons/)
 
 ### Audio
+* [AudioJungle](https://audiojungle.net)
 * [Freeplay Music](http://www.freeplaymusic.com)
 * [Royalty Free Music](http://www.royaltyfreemusic.com)
 * [PremiumBeat](http://www.premiumbeat.com)
