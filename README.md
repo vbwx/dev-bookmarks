@@ -1,4 +1,4 @@
-# Web Development Bookmarks
+# Development Bookmarks
 
 * [Tools](#tools)
   * [Media](#media-tools)
@@ -34,7 +34,7 @@
   * [Stock Photos](#stock-photos)
   * [Graphics](#graphics)
   * [Icons](#icons)
-  * [Music](#music)
+  * [Audio](#audio)
   * [Fonts](#fonts)
 * [Web Design Inspiration](#web-design-inspiration)
 * [Know-How](#know-how)
@@ -309,7 +309,7 @@
 * [IcoMoon](https://icomoon.io/)
 * [Font Awesome](http://fontawesome.io/icons/)
 
-### Music
+### Audio
 * [Freeplay Music](http://www.freeplaymusic.com)
 * [Royalty Free Music](http://www.royaltyfreemusic.com)
 * [PremiumBeat](http://www.premiumbeat.com)
