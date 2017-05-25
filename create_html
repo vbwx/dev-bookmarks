@@ -28,7 +28,7 @@ if [ "$1" = "-c" ]; then
 		>&2 echo "create_html: Commit message argument missing"
 		exit 1
 	fi
-	git commit -am "$2" && git push
-	git checkout gh-pages && git checkout --patch master index.html
+	git commit -am "$2" && git pull && git push
+	git checkout gh-pages && git pull && git checkout --patch master index.html
 	git commit -am "$2" && git push && git checkout master
 fi
