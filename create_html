@@ -10,7 +10,7 @@ cat <<-'EOF' > index.html
 	<!DOCTYPE html><html><head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Web Development Bookmarks by vbwx</title>
+		<title>Development Bookmarks &ndash; vbwx</title>
 		<style>body{font:0.9em/1 "Helvetica Neue",Helvetica,Arial,sans-serif}p:last-of-type{font-size:0.7rem;margin:2rem}li{line-height:1.5}h2+ul,h3+ul{margin-top:-1.1ex}h2,h2+ul{margin-left:2rem}h3,h3+ul{margin-left:4rem}ul{list-style:none;padding-left:2rem}h1,h2,h3{font-weight:normal;cursor:pointer}h2:first-of-type{color:#666}a{outline:none;text-decoration:none;margin-top:0.8ex;display:inline-block}a:focus{text-decoration:underline}a:link,a:visited{color:#0261E5}a:active,a:focus,a:hover{color:#102EA1}.c+ul,.c+div{display:none}.c::before{content:'▸';position:absolute;margin-left:-1.8ex}.o::before{content:'▾';position:absolute;margin-left:-2ex}.o,.c{padding-left:2ex}hr{display:none}</style>
 	</head><body>
 EOF
