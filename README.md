@@ -303,11 +303,11 @@
 
 ### Graphics & Icons
 * [Subtle Patterns](http://subtlepatterns.com/)
-* [Free Striped Fabric Textures for your Designs](http://naldzgraphics.net/freebies/40-free-striped-fabric-textures-for-your-designs/)
 * [GraphicRiver](https://graphicriver.net/)
 * [IconDock](http://icondock.com/)
 * [IcoMoon](https://icomoon.io/)
 * [Font Awesome](http://fontawesome.io/icons/)
+* [Metadata Badges for Open Source Projects](http://shields.io/)
 
 ### Audio
 * [AudioJungle](https://audiojungle.net)
@@ -325,20 +325,20 @@
 ## Web Design Inspiration
 
 * [blacknegative](http://blacknegative.com/#!/whoweare/)
-* [James Bond 007 Cars Evolution | Evans Halshaw](http://www.evanshalshaw.com/bondcars/)
+* [James Bond 007 Cars Evolution](http://www.evanshalshaw.com/bondcars/)
 * [Manufacture d'Essai](http://www.manufacturedessai.it/it/)
-* [iutopi - Creative Land / Branding, Graphic & Web Design](http://www.iutopi.com/)
-* [Whiteboard | We empower visionaries to lead meaningful brands.](http://whiteboard.is/)
-* [Wildlife.la - Let's get Wild](http://whois.wildlife.la/)
+* [iutopi](http://www.iutopi.com/)
+* [Whiteboard](http://whiteboard.is/)
+* [Wildlife.la](http://whois.wildlife.la/)
 * [13 Reasons Why Your Brain Craves Infographics](http://neomam.com/interactive/13reasons/)
-* [Madwell | A Tiny Little Giant Agency](http://www.madwellnyc.com/)
+* [Madwell](http://www.madwellnyc.com/)
 * [Perspective Page View Navigation](http://tympanus.net/Development/PerspectivePageViewNavigation/index.html)
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
 
 ## Know-How
 
 * [Development Cheat Sheets](https://gist.github.com/vbwx/4f4598bbf17bde96e36e70a0d4c39893)
-* [Stack Overflow - Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 * [The Web Robots Pages](http://www.robotstxt.org/)
 * [CSS-Tricks](http://css-tricks.com/)
 * [Support tables for HTML5, CSS3, etc](http://caniuse.com/)
