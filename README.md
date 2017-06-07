@@ -84,6 +84,7 @@
 ### File Format Tools
 * [JSONLint](http://pro.jsonlint.com/)
 * [Pandoc](http://pandoc.org/)
+* [MultiMarkdown](https://github.com/fletcher/MultiMarkdown-6)
 
 ### Database Tools
 * [SQL Fiddle](http://sqlfiddle.com/#)
