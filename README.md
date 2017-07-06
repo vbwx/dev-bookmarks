@@ -310,6 +310,7 @@
 * [IcoMoon](https://icomoon.io/)
 * [Font Awesome](http://fontawesome.io/icons/)
 * [Metadata Badges for Open Source Projects](http://shields.io/)
+* [Material Icons](https://material.io/icons/)
 
 ### Audio
 * [AudioJungle](https://audiojungle.net)
