@@ -311,6 +311,7 @@
 * [Font Awesome](http://fontawesome.io/icons/)
 * [Metadata Badges for Open Source Projects](http://shields.io/)
 * [Material Icons](https://material.io/icons/)
+* [Flaticon](https://www.flaticon.com/)
 
 ### Audio
 * [AudioJungle](https://audiojungle.net)
