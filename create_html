@@ -4,9 +4,7 @@ set -euo pipefail
 IFS=$'\n\t'
 
 # Install dependencies
-type -t marked > /dev/null || npm install -g marked
-
-cat README.md | marked -o body.html
+type -t pandoc > /dev/null || brew install pandoc
 
 cat <<-'EOF' > index.html
 	<!DOCTYPE html><html><head>
@@ -17,14 +15,12 @@ cat <<-'EOF' > index.html
 	</head><body>
 EOF
 
-sed -e 's/<!--\([a-z0-9\/]*\)-->/<\1>/g' -e 's/--/-/' body.html >> index.html
+pandoc -t html README.md | sed -e 's/<!--\([a-z0-9\/]*\)-->/<\1>/g' -e 's/--/-/' >> index.html
 
 cat <<-'EOF' >> index.html
 	<script>$=function(n,f){[].forEach.call(document.getElementsByTagName(n),f)};toggle=function(b){['h1','h2','h3'].forEach(function(h){$(h,function(t){t.className=b?'o':'c'})})};['h2','h3'].forEach(function(h){$(h,function(t){t.addEventListener('click',function(){this.className=this.className==='c'?'o':'c'})})});$('h1',function(t){t.addEventListener('click',function(){toggle(this.className==='c')})});$('a',function(t){if(t.getAttribute('href')[0]!=='#')t.target="_blank"});toggle(0)</script>
 	</body></html>
 EOF
-
-rm -f body.html
 
 if [ "${1-}" = "-c" ]; then
 	if [ -z "${2-}" ]; then
