@@ -352,10 +352,11 @@
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
 * [Dive Into HTML5](http://diveintohtml5.info)
+* [Web Development Courses](http://wesbos.com/courses/)
 
 ## Silly Things
 * [console.image](https://github.com/adriancooney/console.image)
 * [placekitten](http://placekitten.com/)
 
 - - -
-_&copy; 2016&ndash;2017 [Bernhard Waldbrunner](http://vbwx.github.io/)_
+_&copy; 2016&ndash;2018 [Bernhard Waldbrunner](http://vbwx.github.io/)_
