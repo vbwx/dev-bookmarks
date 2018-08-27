@@ -7,7 +7,7 @@
 	* [HTML](#html-tools)
 	* [CSS](#css-tools)
 	* [JavaScript](#javascript-tools)
-	* [Conversion](#conversion-tools)
+	* [Text Processors](#text-processors)
 	* [Server](#server-tools)
 	* [Social Media](#social-media-tools)
 	* [Miscellaneous](#misc-tools)
@@ -82,10 +82,9 @@
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
-### Conversion Tools
+### Text Processors
 * [Pandoc](http://pandoc.org/)
 * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters)
-* [MultiMarkdown](https://github.com/fletcher/MultiMarkdown-6)
 * [Asciidoctor](https://github.com/asciidoctor/asciidoctor)
 
 ### Social Media Tools
