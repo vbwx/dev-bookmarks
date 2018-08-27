@@ -7,9 +7,8 @@
 	* [HTML](#html-tools)
 	* [CSS](#css-tools)
 	* [JavaScript](#javascript-tools)
-	* [File Formats](#file-format-tools)
+	* [Conversion](#conversion-tools)
 	* [Server](#server-tools)
-	* [Database](#database-tools)
 	* [Social Media](#social-media-tools)
 	* [Miscellaneous](#misc-tools)
 * [Frameworks](#frameworks)
@@ -44,7 +43,7 @@
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Free Learning Resources](https://github.com/vhf/free-programming-books)
 
-- - -
+----
 
 ## Tools
 <!--div-->
@@ -76,20 +75,18 @@
 ### JavaScript Tools
 * [Visual regex tester](https://www.debuggex.com/)
 * [Node.js](https://nodejs.org/)
+* [JSONLint](http://pro.jsonlint.com/)
 
 ### Server Tools
 * [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
-### File Format Tools
-* [JSONLint](http://pro.jsonlint.com/)
+### Conversion Tools
 * [Pandoc](http://pandoc.org/)
+* [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters)
 * [MultiMarkdown](https://github.com/fletcher/MultiMarkdown-6)
 * [Asciidoctor](https://github.com/asciidoctor/asciidoctor)
-
-### Database Tools
-* [SQL Fiddle](http://sqlfiddle.com/#)
 
 ### Social Media Tools
 * [Find your Facebook ID](http://findmyfacebookid.com/)
@@ -359,5 +356,5 @@
 * [console.image](https://github.com/adriancooney/console.image)
 * [placekitten](http://placekitten.com/)
 
-- - -
+----
 _&copy; 2016&ndash;2018 [Bernhard Waldbrunner](http://vbwx.github.io/)_
