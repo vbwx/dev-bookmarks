@@ -7,10 +7,11 @@
 	* [HTML](#html-tools)
 	* [CSS](#css-tools)
 	* [JavaScript](#javascript-tools)
-	* [Text Processors](#text-processors)
 	* [Server](#server-tools)
+	* [Database](#database-tools)
+	* [Text Processors](#text-processors)
 	* [Social Media](#social-media-tools)
-	* [Miscellaneous](#misc-tools)
+	* [Miscellaneous](#miscellaneous-tools)
 * [Frameworks](#frameworks)
 * [Boilerplates](#boilerplates)
 * [CSS](#css)
@@ -26,7 +27,7 @@
 	* [Hosting](#hosting)
 	* [Domains](#domains)
 	* [Analytics & Monitoring](#analytics--monitoring)
-	* [Miscellaneous](#misc-services)
+	* [Miscellaneous](#miscellaneous-services)
 * [Resources](#resources)
 	* [Repositories](#software-repositories)
 	* [Web Design](#web-design)
@@ -82,6 +83,10 @@
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
+### Database Tools
+* [SQL Fiddle](http://www.sqlfiddle.com)
+* [DB Browser for SQLite](http://sqlitebrowser.org)
+
 ### Text Processors
 * [Pandoc](http://pandoc.org/)
 * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters)
@@ -91,7 +96,7 @@
 * [Find your Facebook ID](http://findmyfacebookid.com/)
 * [Facebook Debugger](https://developers.facebook.com/tools/debug)
 
-### Misc Tools
+### Miscellaneous Tools
 * [CodePen](http://codepen.io/pen)
 * [Google PageRank Checker](http://www.prchecker.info/)
 * [Decode online](http://decode.urih.com/)
@@ -268,7 +273,7 @@
 * [Sentry](https://sentry.io/)
 * [Hotjar](https://www.hotjar.com/)
 
-### Misc Services
+### Miscellaneous Services
 * [freegeoip.net](https://freegeoip.net/)
 * [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html)
 * [Human Online Forms](https://www.typeform.com/)
