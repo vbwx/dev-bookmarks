@@ -284,8 +284,7 @@
 <!--div-->
 
 ### Software Repositories
-* [Homebrew Formulas](http://brewformulas.org/)
-* [Homebrew Casks](https://caskroom.github.io/search)
+* [Homebrew Formulae](https://formulae.brew.sh/)
 * [Chocolatey Packages](https://chocolatey.org/packages)
 * [Node Packages](https://www.npmjs.com/)
 * [Bower Packages](http://bower.io/search/)
