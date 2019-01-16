@@ -49,6 +49,8 @@
 ## Tools
 <!--div-->
 
+* [Toolbox for IT Professionals](https://extendsclass.com/)
+
 ### Media Tools
 * [Online Audio Converter](http://media.io/)
 * [Favicon Generator](http://realfavicongenerator.net/)
@@ -360,4 +362,5 @@
 * [placekitten](http://placekitten.com/)
 
 ----
+
 _&copy; 2016&ndash;2018 [Bernhard Waldbrunner](http://vbwx.github.io/)_

@@ -3,9 +3,6 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-# Install dependencies
-type -t pandoc > /dev/null || brew install pandoc
-
 cat <<-'EOF' > index.html
 	<!DOCTYPE html><html><head>
 		<meta charset="utf-8">
