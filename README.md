@@ -356,6 +356,7 @@
 * [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
 * [Dive Into HTML5](http://diveintohtml5.info)
 * [Web Development Courses](http://wesbos.com/courses/)
+* [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 
 ## Silly Things
 * [console.image](https://github.com/adriancooney/console.image)
