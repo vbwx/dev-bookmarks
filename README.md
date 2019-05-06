@@ -13,7 +13,7 @@
 	* [Social Media](#social-media-tools)
 	* [Miscellaneous](#miscellaneous-tools)
 * [Frameworks](#frameworks)
-* [Boilerplates](#boilerplates)
+* [Web Technologies](#web-technologies)
 * [CSS](#css)
 * [JavaScript](#javascript)
 	* [Libraries](#libraries)
@@ -22,6 +22,9 @@
 	* [jQuery Plugins](#jquery-plugins)
 	* [Node Packages](#node-packages)
 * [WordPress](#wordpress)
+* [R](#r)
+* [Shell Scripting](#shell-scripting)
+* [Vim](#vim)
 * [Services](#services)
 	* [Images](#images)
 	* [Hosting](#hosting)
@@ -35,14 +38,13 @@
 	* [Graphics & Icons](#graphics--icons)
 	* [Audio](#audio)
 	* [Fonts](#fonts)
-* [Web Design Inspiration](#web-design-inspiration)
-* [Know-How](#know-how)
-* [Silly Things](#silly-things)
 
 ## Other Collections
 
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Free Learning Resources](https://github.com/vhf/free-programming-books)
+* [Development Cheat Sheets](https://gist.github.com/vbwx/4f4598bbf17bde96e36e70a0d4c39893)
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 
 ----
 
@@ -116,6 +118,7 @@
 * [Foundation](http://foundation.zurb.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Polymer](https://www.polymer-project.org/)
+* [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/)
 * [Swagger](http://swagger.io/)
 * [Electron](http://electron.atom.io/)
 * [Meteor](https://www.meteor.com/)
@@ -124,11 +127,14 @@
 * [NativeScript](https://www.nativescript.org)
 * [Ampersand.js](https://ampersandjs.com/)
 
-## Boilerplates
+## Web Technologies
 
-* [Mega Boilerplate](http://megaboilerplate.com/)
-* [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
-* [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/)
+* [The Web Robots Pages](http://www.robotstxt.org/)
+* [Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+* [Video for Everybody!](http://camendesign.com/code/video_for_everybody)
+* [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
+* [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
+* [Dive Into HTML5](http://diveintohtml5.info)
 
 ## CSS
 
@@ -139,6 +145,7 @@
 * [Animated Hamburgers](https://jonsuh.com/hamburgers/)
 * [Image Hover Effect Library](https://github.com/ciar4n/imagehover.css)
 * [CSS hex color words for web developers](http://bada55.io/)
+* [CSS-Tricks](http://css-tricks.com/)
 
 ## JavaScript
 <!--div-->
@@ -252,6 +259,19 @@
 * [Timber](https://github.com/jarednova/timber)
 * [Cookie Consent](https://wordpress.org/plugins/uk-cookie-consent/)
 
+## R
+
+* [Newcomer's (angry) guide to R](https://arrgh.tim-smith.us)
+
+## Shell Scripting
+
+* [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+
+## Vim
+
+* [Vim Cheat Sheet](http://vimsheet.com/)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
 ## Services
 <!--div-->
 
@@ -329,39 +349,6 @@
 
 <!--/div-->
 
-## Web Design Inspiration
-
-* [blacknegative](http://blacknegative.com/#!/whoweare/)
-* [James Bond 007 Cars Evolution](http://www.evanshalshaw.com/bondcars/)
-* [Manufacture d'Essai](http://www.manufacturedessai.it/it/)
-* [iutopi](http://www.iutopi.com/)
-* [Whiteboard](http://whiteboard.is/)
-* [Wildlife.la](http://whois.wildlife.la/)
-* [13 Reasons Why Your Brain Craves Infographics](http://neomam.com/interactive/13reasons/)
-* [Madwell](http://www.madwellnyc.com/)
-* [Perspective Page View Navigation](http://tympanus.net/Development/PerspectivePageViewNavigation/index.html)
-* [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
-
-## Know-How
-
-* [Development Cheat Sheets](https://gist.github.com/vbwx/4f4598bbf17bde96e36e70a0d4c39893)
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-* [The Web Robots Pages](http://www.robotstxt.org/)
-* [CSS-Tricks](http://css-tricks.com/)
-* [Support tables for HTML5, CSS3, etc](http://caniuse.com/)
-* [Video for Everybody!](http://camendesign.com/code/video_for_everybody)
-* [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
-* [Vim Cheat Sheet](http://vimsheet.com/)
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
-* [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
-* [Dive Into HTML5](http://diveintohtml5.info)
-* [Web Development Courses](http://wesbos.com/courses/)
-* [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
-
-## Silly Things
-* [console.image](https://github.com/adriancooney/console.image)
-* [placekitten](http://placekitten.com/)
-
 ----
 
-_&copy; 2016&ndash;2018 [Bernhard Waldbrunner](http://vbwx.github.io/)_
+_&copy; 2016&ndash;2019 [Bernhard Waldbrunner](http://vbwx.github.io/)_
