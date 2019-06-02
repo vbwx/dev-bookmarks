@@ -25,9 +25,10 @@
 	* [Images](#images)
 	* [Hosting](#hosting)
 	* [Domains](#domains)
-	* [Analytics & Monitoring](#analytics--monitoring)
+	* [Analytics & Monitoring](#monitoring)
 	* [Social Media](#social-media)
-	* [Miscellaneous](#miscellaneous-services)
+	* [Location](#location)
+	* [Forms](#forms)
 * [Resources](#resources)
 	* [Repositories](#software-repositories)
 	* [Web Design](#web-design)
@@ -275,7 +276,7 @@
 * [Namecheap](https://www.namecheap.com/)
 * [JS.ORG](http://dns.js.org/)
 
-### Analytics & Monitoring
+### Analytics & Monitoring {#monitoring}
 * [Sentry](https://sentry.io/)
 * [Hotjar](https://www.hotjar.com/)
 
@@ -283,8 +284,10 @@
 * [Find your Facebook ID](http://findmyfacebookid.com/)
 * [Facebook Debugger](https://developers.facebook.com/tools/debug)
 
-### Miscellaneous Services
-* [freegeoip.net](https://freegeoip.net/)
+### Location
+* [IP Geolocation API](https://ipstack.com/)
+
+### Forms
 * [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html)
 * [Human Online Forms](https://www.typeform.com/)
 
