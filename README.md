@@ -261,7 +261,7 @@
 
 ## R
 
-* [Newcomer's (angry) guide to R](https://arrgh.tim-smith.us)
+* [Newcomer’s (angry) guide to R](https://arrgh.tim-smith.us)
 
 ## Shell Scripting
 
