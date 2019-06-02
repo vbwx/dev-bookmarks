@@ -272,6 +272,8 @@
 * [Vim Cheat Sheet](http://vimsheet.com/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim as an IDE](https://blog.jez.io/vim-as-an-ide/)
+* [Modal IDE built on neovim](https://github.com/veonim/veonim)
+* [Refined NeoVim Experience for macOS](http://vimr.org)
 
 ## Services
 <!--div-->
