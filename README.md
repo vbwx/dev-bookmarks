@@ -271,6 +271,7 @@
 
 * [Vim Cheat Sheet](http://vimsheet.com/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Vim as an IDE](https://blog.jez.io/vim-as-an-ide/)
 
 ## Services
 <!--div-->
