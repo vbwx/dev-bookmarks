@@ -4,14 +4,9 @@
 	* [Media](#media-tools)
 	* [Fonts](#font-tools)
 	* [Colors](#color-tools)
-	* [HTML](#html-tools)
-	* [CSS](#css-tools)
-	* [JavaScript](#javascript-tools)
 	* [Server](#server-tools)
 	* [Database](#database-tools)
 	* [Text Processors](#text-processors)
-	* [Social Media](#social-media-tools)
-	* [Miscellaneous](#miscellaneous-tools)
 * [Frameworks](#frameworks)
 * [Web Technologies](#web-technologies)
 * [CSS](#css)
@@ -21,6 +16,7 @@
 	* [Polyfills](#polyfills)
 	* [jQuery Plugins](#jquery-plugins)
 	* [Node Packages](#node-packages)
+	* [Tools](#js-tools)
 * [WordPress](#wordpress)
 * [R](#r)
 * [Shell Scripting](#shell-scripting)
@@ -30,6 +26,7 @@
 	* [Hosting](#hosting)
 	* [Domains](#domains)
 	* [Analytics & Monitoring](#analytics--monitoring)
+	* [Social Media](#social-media)
 	* [Miscellaneous](#miscellaneous-services)
 * [Resources](#resources)
 	* [Repositories](#software-repositories)
@@ -53,41 +50,27 @@
 
 * [Toolbox for IT Professionals](https://extendsclass.com/)
 
-### Media Tools
+### Media {#media-tools}
 * [Online Audio Converter](http://media.io/)
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [image-to-DataURI converter](http://duri.me/)
 
-### Font Tools
+### Font {#font-tools}
 * [Web Font Generator](http://www.web-font-generator.com/)
 * [Free Online Font Converter](http://www.freefontconverter.com/)
 * [What Font is](http://www.whatfontis.com/)
 
-### Color Tools
+### Color {#color-tools}
 * [Adobe Color CC](https://color.adobe.com/)
 * [Color Safe](http://colorsafe.co/)
 * [Color Converter](http://www.workwithcolor.com/color-converter-01.htm)
 
-### HTML Tools
-* [HTML image map creator](http://summerstyle.github.io/summer/)
-* [HTML Entities](http://www.w3schools.com/tags/ref_entities.asp)
-* [W3C Unicorn](http://validator.w3.org/unicorn/)
-
-### CSS Tools
-* [CSS3 Generator](http://css3generator.com/)
-* [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-
-### JavaScript Tools
-* [Visual regex tester](https://www.debuggex.com/)
-* [Node.js](https://nodejs.org/)
-* [JSONLint](http://pro.jsonlint.com/)
-
-### Server Tools
+### Server {#server-tools}
 * [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
-### Database Tools
+### Database {#database-tools}
 * [SQL Fiddle](http://www.sqlfiddle.com)
 * [DB Browser for SQLite](http://sqlitebrowser.org)
 
@@ -95,16 +78,6 @@
 * [Pandoc](http://pandoc.org/)
 * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters)
 * [Asciidoctor](https://github.com/asciidoctor/asciidoctor)
-
-### Social Media Tools
-* [Find your Facebook ID](http://findmyfacebookid.com/)
-* [Facebook Debugger](https://developers.facebook.com/tools/debug)
-
-### Miscellaneous Tools
-* [CodePen](http://codepen.io/pen)
-* [Google PageRank Checker](http://www.prchecker.info/)
-* [Decode online](http://decode.urih.com/)
-* [Kitematic](https://kitematic.com/)
 
 <!--/div-->
 
@@ -135,6 +108,9 @@
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 * [Google Analytics Academy](https://analyticsacademy.withgoogle.com/)
 * [Dive Into HTML5](http://diveintohtml5.info)
+* [HTML Entities](http://www.w3schools.com/tags/ref_entities.asp)
+* [W3C Unicorn](http://validator.w3.org/unicorn/)
+* [CodePen](http://codepen.io/pen)
 
 ## CSS
 
@@ -146,6 +122,8 @@
 * [Image Hover Effect Library](https://github.com/ciar4n/imagehover.css)
 * [CSS hex color words for web developers](http://bada55.io/)
 * [CSS-Tricks](http://css-tricks.com/)
+* [CSS3 Generator](http://css3generator.com/)
+* [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
 ## JavaScript
 <!--div-->
@@ -171,7 +149,6 @@
 * [Lightbox 2](http://lokeshdhakar.com/projects/lightbox2/)
 * [Galleria](http://galleria.io/)
 * [spin.js](http://fgnass.github.com/spin.js/)
-* [+1 Button](https://developers.google.com/+/web/+1button/)
 * [Facebook Social Plugins](http://developers.facebook.com/docs/plugins/)
 
 ### Polyfills
@@ -226,6 +203,10 @@
 * [Parser Generator for JavaScript](https://pegjs.org/)
 * [Popper.js](https://popper.js.org/)
 * [Dragula](https://bevacqua.github.io/dragula/)
+
+### Tools {#js-tools}
+* [Visual regex tester](https://www.debuggex.com/)
+* [JSONLint](http://pro.jsonlint.com/)
 
 <!--/div-->
 
@@ -297,6 +278,10 @@
 ### Analytics & Monitoring
 * [Sentry](https://sentry.io/)
 * [Hotjar](https://www.hotjar.com/)
+
+### Social Media
+* [Find your Facebook ID](http://findmyfacebookid.com/)
+* [Facebook Debugger](https://developers.facebook.com/tools/debug)
 
 ### Miscellaneous Services
 * [freegeoip.net](https://freegeoip.net/)
