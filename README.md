@@ -1,13 +1,13 @@
 # Development Bookmarks
 
 * [Tools](#tools)
-	* [Development](#dev-tools)
-	* [Media](#media-tools)
-	* [Fonts](#font-tools)
-	* [Colors](#color-tools)
-	* [Server](#server-tools)
-	* [Database](#database-tools)
-	* [Text Processors](#text-processors)
+	* [Development](#development)
+	* [Media](#media)
+	* [Font](#font)
+	* [Color](#color)
+	* [Server](#server)
+	* [Database](#database)
+	* [Text](#text)
 * [Frameworks](#frameworks)
 * [Web Technologies](#web-technologies)
 * [CSS](#css)
@@ -17,7 +17,6 @@
 	* [Polyfills](#polyfills)
 	* [jQuery Plugins](#jquery-plugins)
 	* [Node Packages](#node-packages)
-	* [Tools](#js-tools)
 * [WordPress](#wordpress)
 * [R](#r)
 * [Shell Scripting](#shell-scripting)
@@ -26,7 +25,7 @@
 	* [Images](#images)
 	* [Hosting](#hosting)
 	* [Domains](#domains)
-	* [Analytics & Monitoring](#monitoring)
+	* [Analytics & Monitoring](#analytics--monitoring)
 	* [Social Media](#social-media)
 	* [Location](#location)
 	* [Forms](#forms)
@@ -50,34 +49,36 @@
 ## Tools
 <!--div-->
 
-### Development {#dev-tools}
+### Development
 * [Online Tools for Developers](https://extendsclass.com/)
+* [Visual regex tester](https://www.debuggex.com/)
+* [JSONLint](http://pro.jsonlint.com/)
+* [Language Server Protocol for Sublime Text](https://github.com/tomv564/LSP)
 
-### Media {#media-tools}
+### Media
 * [Online Audio Converter](http://media.io/)
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [image-to-DataURI converter](http://duri.me/)
 
-### Font {#font-tools}
+### Font
 * [Web Font Generator](http://www.web-font-generator.com/)
-* [Free Online Font Converter](http://www.freefontconverter.com/)
 * [What Font is](http://www.whatfontis.com/)
 
-### Color {#color-tools}
+### Color
 * [Adobe Color CC](https://color.adobe.com/)
 * [Color Safe](http://colorsafe.co/)
 * [Color Converter](http://www.workwithcolor.com/color-converter-01.htm)
 
-### Server {#server-tools}
+### Server
 * [htaccess Redirect Generator](http://www.htaccessredirect.net/index.php)
 * [htaccess tester](http://htaccess.madewithlove.be/)
 * [htpasswd generator](http://approsto.com/htpasswd-generator/)
 
-### Database {#database-tools}
+### Database
 * [SQL Fiddle](http://www.sqlfiddle.com)
 * [DB Browser for SQLite](http://sqlitebrowser.org)
 
-### Text Processors
+### Text
 * [Pandoc](http://pandoc.org/)
 * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters)
 * [Asciidoctor](https://github.com/asciidoctor/asciidoctor)
@@ -124,7 +125,7 @@
 * [Animated Hamburgers](https://jonsuh.com/hamburgers/)
 * [Image Hover Effect Library](https://github.com/ciar4n/imagehover.css)
 * [CSS hex color words for web developers](http://bada55.io/)
-* [CSS-Tricks](http://css-tricks.com/)
+* [CSS Tricks](http://css-tricks.com/)
 * [CSS3 Generator](http://css3generator.com/)
 * [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
@@ -143,10 +144,10 @@
 * [ASCIIMathML](https://github.com/asciimath/asciimathml)
 
 ### Widgets
-* [hallo - Simple HTML Rich Text Editor](https://github.com/bergie/hallo)
+* [Simple HTML Rich Text Editor](https://github.com/bergie/hallo)
 * [CKEditor.com](http://ckeditor.com/)
 * [Prism](http://prismjs.com/)
-* [Ace - Code Editor for the Web](https://ace.c9.io/)
+* [Code Editor for the Web](https://ace.c9.io/)
 * [Redactor WYSIWYG html editor](http://imperavi.com/redactor/)
 * [HTML5 Video Player](http://www.videojs.com/)
 * [Lightbox 2](http://lokeshdhakar.com/projects/lightbox2/)
@@ -207,10 +208,6 @@
 * [Popper.js](https://popper.js.org/)
 * [Dragula](https://bevacqua.github.io/dragula/)
 
-### Tools {#js-tools}
-* [Visual regex tester](https://www.debuggex.com/)
-* [JSONLint](http://pro.jsonlint.com/)
-
 <!--/div-->
 
 ## WordPress
@@ -245,7 +242,9 @@
 
 ## R
 
-* [Newcomer’s (angry) guide to R](https://arrgh.tim-smith.us)
+* [Newcomer's guide to R](https://arrgh.tim-smith.us)
+* [21st century R console](https://github.com/randy3k/radian)
+* [R-IDE for Sublime Text](https://github.com/REditorSupport/sublime-ide-r)
 
 ## Shell Scripting
 
@@ -278,7 +277,7 @@
 * [Namecheap](https://www.namecheap.com/)
 * [JS.ORG](http://dns.js.org/)
 
-### Analytics & Monitoring {#monitoring}
+### Analytics & Monitoring
 * [Sentry](https://sentry.io/)
 * [Hotjar](https://www.hotjar.com/)
 
