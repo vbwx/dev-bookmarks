@@ -343,4 +343,4 @@
 
 ----
 
-_&copy; 2016&ndash;2019 [Bernhard Waldbrunner](http://vbwx.github.io/)_
+_&copy; 2016&ndash;2019 [vbwx](http://vbwx.github.io/)_
